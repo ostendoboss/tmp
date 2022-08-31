@@ -1,2 +1,1 @@
-# tmp
-Temporal branch to check to check default settings
+update README file is updated
